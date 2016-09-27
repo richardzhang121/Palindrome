@@ -1,0 +1,42 @@
+//ZhangRichard Palindrome
+#include <iostream>
+#include <cstdlib>
+#include <cstring>
+//includes are similar to imports from Java
+using namespace std;
+
+int main()
+{
+  //initiates variables
+  char input[81];
+  char opposite[81];
+  int length = 0;
+  cout << "Please input a word or sentence to see if it is a palindrome or not" << endl;
+  cin.get(input, 81); // gets the user inputted string
+
+  
+  for (int i = 0; i < 81; i++) {
+    if (isalpha(input[i])) {
+      opposite[length] = tolower(input[i]); // removes punctuation from the user input
+      length++;
+    }
+    if (input[i+1] == '\0'){
+	i=82;
+	opposite[length] = '\0';
+    }
+  }
+
+  bool check = true; //checks to see if the input is a palindrome
+  for (int i = 0; i < length/2; i++) {
+    if (opposite[i] != opposite[length - 1 - i]){
+	check = false;
+      }
+    }
+  if (check == true) { //if user input is a palindrome
+    cout << "This is a palindrome!" << endl;
+  }
+  
+  else {//if user input is not a palindrome
+    cout << "This is not a palindrome" << endl;
+  }
+}
