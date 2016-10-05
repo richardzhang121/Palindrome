@@ -35,3 +35,32 @@ emacs ZhangPalindrome.cpp
 ./a.exe
 ./a.exe
 emacs ZhangPalindrome.cpp 
+./a.exe
+emacs ZhangPalindrome.cpp 
+emacs Zhang
+emacs ZhangPalindrome.cpp 
+g++ ZhangPalindrome.cpp 
+./a.exe
+./a.exe
+./a.exe
+emacs ZhangTicTacToe
+emacs ZhangTicTacToe.cpp
+./a.exe
+g++
+ZhangTicTacToe.cpp g++
+emacs ZhangTicTacToe.cpp
+g++
+g++ ZhangTicTacToe.cpp
+./a.exe
+emacs ZhangTicTacToe.cpp
+g++
+g++ ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+g++ ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+g++ ZhangTicTacToe.cpp
+./a.exe
+emacs ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp~ 
+emacs ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp~ 
