@@ -64,3 +64,87 @@ emacs ZhangTicTacToe.cpp
 emacs ZhangTicTacToe.cpp~ 
 emacs ZhangTicTacToe.cpp
 emacs ZhangTicTacToe.cpp~ 
+emacs ZhangTicTacToe.cpp
+g++ ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+g++ ZhangTicTacToe.cpp~ 
+g++ ZhangTicTacToe.cpp
+g++ ZhangTicTacToe.cpp~ 
+g++ ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+ls
+emacs ZhangTicTacToe.cpp
+g++
+g++ ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+g++ ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+g++ ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+g++ ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+g++ ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+g++ ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+g++ ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+g++ ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+g++ ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+emacs Zhang
+emacs ZhangTicTacToe.cpp
+g++ ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+g++ ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+g++ ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+g++ ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+emacs TicTacToe.cpp
+ls
+emacs TicTacToe.cpp
+emacs TicTacToe.cpp 
+g++ TicTacToe.cpp
+./a.exe
+emacs TicTacToe.cpp
+emacs ZhangTicTacToe.cpp
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp`
+g++ TicTacToe.cpp
+
+
+
+
+
+
+
+g++ TicTacToe.cpp
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp
+emacs TicTacToe.cpp
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp
+emacs TicTacToe.cpp
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp
+./a.exe
+ls
+emacs TicTacToe.cpp~ 
+ls

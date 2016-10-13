@@ -217,11 +217,6 @@ int main()
 
 		
 	//End of Menu Choice If Statement
-	} else(MenuChoice == 2) {
-		cout << "Ok....." << endl;
-		}
-
-	system ("pause"); 
-	return 0;
-	
+	}
+}
 }
